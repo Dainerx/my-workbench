@@ -1,0 +1,64 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="BuildView.Splitter.Proportion" value="0.37848172" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FindSplitterProportion" value="0.0" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.108283706" />
+    <property name="InstalledPluginsSearchHistory" value="Lom&#10;Lomb&#10;Lombo&#10;Lo&#10;L" />
+    <property name="JUnit.Splitter.Proportion" value="0.20725109" />
+    <property name="JUnitSupport.hideIgnoredTests" value="true" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="LayoutCode.codeCleanup" value="true" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="LiveContextsPanel[0]" value="0.110011004" />
+    <property name="LiveContextsPanel[1]" value="0.12368584" />
+    <property name="LiveContextsPanel[2]" value="0.14124294" />
+    <property name="MarketplacePluginsSearchHistory" value="Lombo&#10;Lom&#10;sonar&#10;so" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.42528737" />
+    <property name="SHOW_INHERITED.file.structure.state" value="true" />
+    <property name="SettingsSearchHistory" value="maven&#10;module&#10;Java&#10;covera&#10;format" />
+    <property name="SpringBeansModulesPanel[0]" value="0.108283706" />
+    <property name="SpringBeansModulesPanel[1]" value="0.12150668" />
+    <property name="SpringMvcModulesPanel[0]" value="0.108283706" />
+    <property name="SpringRepositoriesModulesPanel[0]" value="0.108283706" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="appcds.runOnSecondStart" value="IU-202.7319.50-787e735a4b47827c4f762d8255401026fccf6561ac2cf96cc595d6cb97f9df73" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="evlsprt.202" value="17593694a41" />
+    <property name="evlsprt2.202" value="1753fe2a161" />
+    <property name="evlsprt3.202" value="18" />
+    <property name="file.chooser.recent.files" value="D:/depot/v3.1.build.dev.dmm.pi50.124779.demo/localRepo&#10;D:/depot/v3.1.build.dev.dmm.pi50.124779.demo/component/service-framework/rest/rest-runtime&#10;D:/dev_branch/component/service-framework/rest&#10;D:/dev_branch/component/examples/referencedata/counterpart&#10;D:/dev_branch/component/mvr&#10;D:/dev_branch/component&#10;//wsl$/Ubuntu-20.04/usr/share/maven&#10;//wsl$/Ubuntu-20.04/home/obenghorbel/dev_branch/maven-repo-local&#10;//wsl$/Ubuntu-20.04/home/obenghorbel/dev_branch/component/global-settings.xml&#10;//wsl$/Ubuntu-20.04/home/obenghorbel/dev_branch/component/examples/referencedata/counterpart&#10;//wsl$/Ubuntu-20.04/home/obenghorbel/dev_branch&#10;D:/dev_branch/maven-repo-local&#10;D:/dev_branch/component/global-settings.xml&#10;D:/dev_branch/component/examples/referencedata&#10;D:/dev_branch/component/service-framework/rest/rest-runtime-testing-utils&#10;D:/dev_branch/component/service-framework/rest/rest-datalayer&#10;D:/dev_branch/component/service-framework/rest/load-test&#10;D:/dev_branch/component/service-framework/rest/rest-runtime&#10;D:/dev_branch/component/service-framework/rest/rest-service-archetype&#10;D:/dev_branch/component/legacy/common/client&#10;D:/&#10;C:/Maven/maven-3.6.2-takari&#10;D:/dev_branch/component/practice&#10;D:/dev_branch/component/legacy/middleware/test-framework/micro-kernel&#10;D:/dev_branch/component/legacy/boot/client&#10;D:/dev_branch/component/legacy/middleware/client&#10;D:/learning/java/murex-retail-experience&#10;D:/learning/murex-retail-experience&#10;D:/learning/murex-retail-client&#10;D:/learning/GildedRose" />
+    <property name="file.gist.reindex.count" value="16764" />
+    <property name="fileTypeChangedCounter" value="7" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.3.72-release-IJ2020.1-6" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last.imported.location" value="D:/git_workspace/dev_branch/component/mvr" />
+    <property name="lastSeenTip" value="neue-ClipboardStack.html" />
+    <property name="lastTimeTipsWereShown" value="1632833026341" />
+    <property name="last_opened_file_path" value="D:/depot/v3.1.build.dev.dmm.pi50.124779.demo/localRepo" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1632833001027" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="run.configuration.edit.ad" value="true" />
+    <property name="seenTips" value="neue-RecentFiles.html,neue-HighlightImplements.html,neue-LayoutCode.html,neue-QuickJavaDoc.html,neue-RefactorThis.html,neue-GotoLineInFile.html,neue-RemoveBreakpoint.html,neue-FavoritesToolWindow2.html,neue-ConfiguringTerminal.html,neue-RecentSearch.html,neue-HorizontalScrolling.html,neue-Multicursor.html,neue-Copyright.html,neue-ExcludeFromProject.html,neue-TabInLookups.html,neue-CtrlDotInLookups.html,neue-CtrlShiftI.html,neue-DiagramShowDiff.html,neue-db_tip_drag_csv_file_to_create_table.html,neue-DBMakeDataSourceReadonly.html,neue-run_anything.html,neue-ImagesLookup.html,neue-HierarchyBrowser.html,neue-SurroundWith.html,neue-find_action.html,neue-structural_search.html,InjectSQLLanguage.html,neue-CtrlD.html,neue-Compare.html,neue-SpeedSearch.html,neue-InspectionsWidget.html,neue-SmartTypeCasting.html,neue-ProblemsView.html,neue-ColorEditingInCss.html,neue-HideWidgets.html,neue-Scratch.html,neue-SpringInject.html,neue-SecondSmartCompletionChain.html,neue-QuickJavaDocInLookups.html,neue-SearchEverywhere.html,neue-smart_selection.html,neue-EditorConfig.html,neue-local_history.html,neue-CamelHumpsInCodeCompletion.html,neue-intention_action_replace_with_between_expression.html,neue-CopyPasteReference.html,neue-find_usages.html,neue-IntroduceVariable.html,neue-SplitEditor.html,neue-DragToOpen.html,neue-RichTextCopy.html,neue-ColumnSelection.html,neue-OverrideImplementMethods.html,neue-CloseOthers.html,neue-MoveInnerToUpper.html,neue-LiveTemplates.html,neue-YouTrack_integration.html,neue-FileStructurePopup.html,neue-SecondSmartCompletionAsList.html,neue-DiagramShow.html,neue-DirDiff.html,neue-Welcome.html,neue-GoToClass.html,neue-ExternalJavaDoc.html,neue-EnterDirectoryInGotoFile.html,neue-DiffChevron.html,neue-SpellcheckerDictionaries.html,neue-ChangeSignatureAfterMovingParameters.html,neue-SpringOpenBean.html,neue-hprof.html,neue-GoToDeclaration.html,neue-ClipboardStack.html" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Imports" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="tooltips.show.actions.in.key" value="false" />
+    <property name="ts.lib.d.ts.version" value="3.9.5" />
+  </component>
+</application>

@@ -1,0 +1,12 @@
+<application>
+  <component name="ProfilerRunConfigurations">
+    <profilerRunConfigurations>
+      <item configurationTypeId="JFRSimpleConfiguration">
+        <JFRConfigurationState name="Java Flight Recorder" />
+      </item>
+    </profilerRunConfigurations>
+    <knownConfigurationTypes>
+      <id>JFRSimpleConfiguration</id>
+    </knownConfigurationTypes>
+  </component>
+</application>

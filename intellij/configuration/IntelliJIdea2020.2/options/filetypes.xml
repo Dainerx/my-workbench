@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Jenkins" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="mxres" type="PLAIN_TEXT" />
+      <mapping ext="exec" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

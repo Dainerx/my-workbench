@@ -1,0 +1,441 @@
+<project version="4">
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/murex/serviceframework/rest/runtime/JWTFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-111">
+              <caret line="183" column="75" selection-start-line="183" selection-start-column="75" selection-end-line="183" selection-end-column="75" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2070#2071#0" expanded="true" />
+                <element signature="e#2116#2117#0" expanded="true" />
+                <element signature="e#8739#8740#0" expanded="true" />
+                <element signature="e#8779#8780#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3536">
+              <caret line="136" column="40" selection-start-line="136" selection-start-column="35" selection-end-line="136" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../../../../maven-repo-local/murex/auth/common/common-auth-token/v3.1.build.dev.amber.120787.50.1-SNAPSHOT/common-auth-token-v3.1.build.dev.amber.120787.50.1-SNAPSHOT-sources.jar!/com/murex/auth/common/token/IdTokenParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>principalFromClaims</find>
+      <find>doFilter</find>
+      <find>issuer</find>
+      <find>parseWithoutVerificationAndGetKeyIdentifier</find>
+      <find>JWTFilter</find>
+      <find>&quot;default&quot;, signingKeyPair.getPublic()</find>
+      <find>UserPrincipalEnforcingHttpServletRequestWrapper</find>
+      <find>generate</find>
+      <find>able_to_ret</find>
+      <find>able_to</find>
+      <find>tenant</find>
+      <find>iss</find>
+      <find>sub</find>
+      <find>aud</find>
+      <find>@NonNu</find>
+      <find>Failed authentication, wrong key</find>
+      <find>auth</find>
+      <find>sendE</find>
+      <find>mx_sid</find>
+      <find>jacks</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/murex/serviceframework/rest/runtime/JWTFilterTest1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/murex/serviceframework/rest/runtime/JWTFilter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/murex/serviceframework/rest/runtime/JWTFilterTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="REST Service Framework :: REST Runtime" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" x="560" y="0" width="1240" height="671" extendedState="6" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rest-runtime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest-runtime" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest-runtime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest-runtime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest-runtime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest-runtime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest-runtime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest-runtime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest-runtime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest-runtime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="runtime" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest-runtime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest-runtime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest-runtime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest-runtime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest-runtime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest-runtime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="runtime" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest-runtime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="JWTFilterTest_authorizes_valid_jwt - 2021.06.11 at 11h 02m 35s.xml">
+      <configuration name="JWTFilterTest.authorizes_valid_jwt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JWTFilterTest_authorizes_valid_jwt_with_missing_certificate_for_alias_must_fall_back_to_default_certificate - 2021.06.11 at 11h 03m 04s.xml">
+      <configuration name="JWTFilterTest.authorizes_valid_jwt_with_missing_certificate_for_alias_must_fall_back_to_default_certificate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JWTFilterTest - 2021.06.11 at 11h 03m 29s.xml">
+      <configuration name="JWTFilterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JWTFilterTest_throw_exception_when_signature_key_is_missing_from_keystore - 2021.06.11 at 11h 09m 16s.xml">
+      <configuration name="JWTFilterTest.throw_exception_when_signature_key_is_missing_from_keystore" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JWTFilterTest_throw_exception_when_signature_key_is_missing_from_keystore - 2021.06.11 at 11h 10m 08s.xml">
+      <configuration name="JWTFilterTest.throw_exception_when_signature_key_is_missing_from_keystore" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JWTFilterTest - 2021.06.11 at 11h 10m 19s.xml">
+      <configuration name="JWTFilterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JWTFilterTest - 2021.06.11 at 11h 12m 34s.xml">
+      <configuration name="JWTFilterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JWTFilterTest - 2021.06.11 at 14h 55m 42s.xml">
+      <configuration name="JWTFilterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JWTFilterTest_authorizes_valid_jwt - 2021.06.11 at 15h 40m 13s.xml">
+      <configuration name="JWTFilterTest.authorizes_valid_jwt" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JWTFilterTest_authorizes_valid_jwt_with_multiple_certificates_in_truststore - 2021.06.11 at 15h 40m 36s.xml">
+      <configuration name="JWTFilterTest.authorizes_valid_jwt_with_multiple_certificates_in_truststore" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50695000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20990942" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.35748535" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.33244538" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.031914894" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.48723406" />
+      <window_info anchor="bottom" id="Problems View" order="4" weight="0.32978722" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Spring" order="6" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32978722" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Services" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="11" />
+      <window_info anchor="bottom" id="Endpoints" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SonarLint" order="15" />
+      <window_info anchor="bottom" id="TypeScript" order="16" />
+      <window_info anchor="bottom" id="Build" order="17" visible="true" weight="0.32659575" />
+      <window_info anchor="bottom" id="Java Enterprise" order="18" />
+      <window_info anchor="right" id="Ant" order="0" weight="0.32978156" />
+      <window_info anchor="right" id="Maven" order="1" weight="0.015982952" />
+      <window_info anchor="right" id="Database" order="2" weight="0.32978156" />
+      <window_info anchor="right" id="Layout Validation" order="3" />
+      <window_info anchor="right" id="Bean Validation" order="4" />
+    </layout>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../../../maven-repo-local/murex/auth/common/common-auth-token/v3.1.build.dev.amber.120787.50.1-SNAPSHOT/common-auth-token-v3.1.build.dev.amber.120787.50.1-SNAPSHOT.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2034">
+          <caret line="160" column="20" selection-start-line="160" selection-start-column="20" selection-end-line="160" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/murex/serviceframework/rest/runtime/InputStreamSourceUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../maven-repo-local/io/jsonwebtoken/jjwt/0.7.0/jjwt-0.7.0.jar!/io/jsonwebtoken/ClaimsMutator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../maven-repo-local/io/jsonwebtoken/jjwt/0.7.0/jjwt-0.7.0.jar!/io/jsonwebtoken/Claims.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../maven-repo-local/murex/auth/common/common-auth-token/v3.1.build.dev.amber.120787.50.1-SNAPSHOT/common-auth-token-v3.1.build.dev.amber.120787.50.1-SNAPSHOT-sources.jar!/com/murex/auth/common/token/IdTokenHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <element signature="e#905#906#0" expanded="true" />
+            <element signature="e#952#953#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/murex/serviceframework/rest/runtime/AuthenticationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/murex/serviceframework/rest/runtime/MurexScheduledReporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#7661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../maven-repo-local/murex/auth/common/common-auth-token/v3.1.build.dev.amber.120787.50.1-SNAPSHOT/common-auth-token-v3.1.build.dev.amber.120787.50.1-SNAPSHOT-sources.jar!/com/murex/auth/common/token/IdTokenHandlerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../maven-repo-local/murex/auth/common/common-auth-token/v3.1.build.dev.amber.120787.50.1-SNAPSHOT/common-auth-token-v3.1.build.dev.amber.120787.50.1-SNAPSHOT-sources.jar!/com/murex/auth/common/token/IdTokenException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../maven-repo-local/io/jsonwebtoken/jjwt/0.7.0/jjwt-0.7.0.jar!/io/jsonwebtoken/Jwts.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+          <folding>
+            <element signature="e#866#867#0" expanded="true" />
+            <element signature="e#908#909#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/murex/serviceframework/rest/runtime/JWTFilterTest1.java" />
+    <entry file="jar://C:/jdk-11.0.2/lib/src.zip!/java.base/java/security/Principal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../maven-repo-local/io/jsonwebtoken/jjwt/0.7.0/jjwt-0.7.0.jar!/io/jsonwebtoken/impl/DefaultClaims.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1586">
+          <caret line="83" column="60" selection-start-line="83" selection-start-column="48" selection-end-line="83" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/murex/serviceframework/rest/runtime/JWTFilterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="93" column="56" selection-start-line="93" selection-start-column="56" selection-end-line="93" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../maven-repo-local/murex/auth/common/common-auth-token/v3.1.build.dev.amber.120787.50.1-SNAPSHOT/common-auth-token-v3.1.build.dev.amber.120787.50.1-SNAPSHOT-sources.jar!/com/murex/auth/common/token/IdTokenInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/murex/serviceframework/rest/runtime/SpringBasedResourceResolverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/murex/serviceframework/rest/runtime/SpringBasedResourceResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../maven-repo-local/com/murex/serviceframework/tools/xml-anchor-resolver/1.0.0/xml-anchor-resolver-1.0.0.jar!/com/murex/serviceframework/tools/anchors/ResourceResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/murex/serviceframework/rest/runtime/AccessDeniedStatusCodeSetterFilterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../maven-repo-local/murex/auth/common/common-auth-token/v3.1.build.dev.amber.120787.50.1-SNAPSHOT/common-auth-token-v3.1.build.dev.amber.120787.50.1-SNAPSHOT-sources.jar!/com/murex/auth/common/token/IdTokenParserImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="115" column="181" selection-start-line="115" selection-start-column="181" selection-end-line="115" selection-end-column="181" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../maven-repo-local/murex/auth/common/common-auth-token/v3.1.build.dev.amber.120787.50.1-SNAPSHOT/common-auth-token-v3.1.build.dev.amber.120787.50.1-SNAPSHOT-sources.jar!/com/murex/auth/common/token/IdTokenFields.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/murex/serviceframework/rest/runtime/JWTFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-111">
+          <caret line="183" column="75" selection-start-line="183" selection-start-column="75" selection-end-line="183" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2070#2071#0" expanded="true" />
+            <element signature="e#2116#2117#0" expanded="true" />
+            <element signature="e#8739#8740#0" expanded="true" />
+            <element signature="e#8779#8780#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3536">
+          <caret line="136" column="40" selection-start-line="136" selection-start-column="35" selection-end-line="136" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../maven-repo-local/murex/auth/common/common-auth-token/v3.1.build.dev.amber.120787.50.1-SNAPSHOT/common-auth-token-v3.1.build.dev.amber.120787.50.1-SNAPSHOT-sources.jar!/com/murex/auth/common/token/IdTokenParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,743 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rest-runtime-testing-utils/src/main/java/com/murex/serviceframework/rest/runtime/testing/DefaultSpringApplicationBuilderFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rest-runtime-testing-utils/src/main/java/com/murex/serviceframework/rest/runtime/testing/FileSystemChecker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rest-runtime-testing-utils/src/main/java/com/murex/serviceframework/rest/runtime/testing/BeanResolutionResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rest-runtime-testing-utils/src/main/java/com/murex/serviceframework/rest/runtime/testing/SpringApplicationRule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rest-runtime-testing-utils/src/main/java/com/murex/serviceframework/rest/runtime/testing/SpringApplicationRuleBuilders.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rest-runtime-testing-utils/src/main/java/com/murex/serviceframework/rest/runtime/testing/LoadableSpringApplicationInstance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1508">
+              <caret line="72" column="44" selection-start-line="72" selection-start-column="44" selection-end-line="72" selection-end-column="44" />
+              <folding>
+                <element signature="e#1911#1912#0" expanded="true" />
+                <element signature="e#1989#1990#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rest-runtime-testing-utils/src/main/java/com/murex/serviceframework/rest/runtime/testing/LoadableSpringApplicationInstanceBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/ApplicationStatusExporterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rest-monitoring/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2288">
+              <caret line="88" selection-start-line="88" selection-end-line="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rest-runtime/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="329" selection-start-line="329" selection-end-line="329" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>env</find>
+      <find>assertJ</find>
+      <find>HealthCheckProvider</find>
+      <find>healthCheckServletV1RegistrationBean</find>
+      <find>/domain/</find>
+      <find>getClientSett</find>
+      <find>applicationRule.getClientSettings().getBaseURI()</find>
+      <find>testing/</find>
+      <find>ServiceDefinition(</find>
+      <find>ConfigurableWebServerApplicationContext</find>
+      <find>LogCollectorMetricFormatter</find>
+      <find>domain</find>
+      <find>MetricRegistry</find>
+      <find>ConfigurableEnvironment</find>
+      <find>ServiceContext</find>
+      <find>assertj</find>
+      <find>testing</find>
+      <find>&quot;testing&quot;</find>
+      <find>&quot;domain&quot;: &quot;testing&quot;</find>
+      <find>&quot;testing</find>
+      <find>&quot;testing/v1.0/</find>
+      <find>testing/v1.0/feign</find>
+      <find>assertThat</find>
+      <find>SpringApplicationRuleBuilders.plainWebWithJWT</find>
+      <find>test.json</find>
+      <find>testing/v1.0/mgmt/metrics</find>
+      <find>spring-boot-te</find>
+      <find>testing/v1.0/</find>
+      <find>testing/v1.0</find>
+      <find>TESTING_1_0</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>v1/testing</replace>
+      <replace>v1/testing/</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\dev_branch\component\service-framework\rest\rest-runtime</dir>
+      <dir>D:\dev_branch\component\service-framework\rest\rest-runtime\src\test\java</dir>
+      <dir>D:\dev_branch\component\service-framework\rest\rest-runtime\src\test\java\com\murex\serviceframework\rest\runtime</dir>
+      <dir>D:\dev_branch\component\service-framework\rest\rest-runtime\src\test</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/AbstractAccessLoggingIT.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/main/java/com/murex/serviceframework/rest/runtime/PrivateAPICondition.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/VersionMatcher.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/PrivateAPIRegistrationBeanTest.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/PrivateAPIRegistrationBeanTest.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/main/java/com/murex/serviceframework/rest/runtime/MurexTestConfiguration.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/ConditionAPITest.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/ConditionalSpringOnServiceNameSpace.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/MurexTestConfiguration.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/ConditionalAnnotationOnServiceNameSpace.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/ManagementPublicAccessIT.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/ConditionalDummyConfiguration.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/FeignPlainWebIT.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/conditional/configurations/ConditionalAnnotationOnServiceNameSpaceTest.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/ConditionalAnnotationOnServiceNameSpaceTest.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/MurexConditionalConfigurationIT.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/ManagementEndpointPublicAccessIT.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/main/java/com/murex/serviceframework/rest/runtime/MurexMetricsConfiguration.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/ManagementEndpointPrivateAccessIT.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/feign/FeignApplicationController.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/feign/RetryableFeignApplicationComponent.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/error/ErrorController.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/error/ErrorLogIT.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/license/LicenseApplicationController.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/loadbalanced/feign/FeignApplicationController.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/tenantid/LogTenantController.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/appinfoheaders/AppInfoApplicationController.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/cachecontrol/HttpCachingController.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/cachecontrol/HttpCachingIT.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/resources/META-INF/murex/rest-services.json" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/main/java/com/murex/serviceframework/rest/runtime/MurexHealthCheckConfiguration.java" />
+        <option value="$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/MurexConditionalConfigurationTest.java" />
+        <option value="$PROJECT_DIR$/rest-monitoring/pom.xml" />
+        <option value="$PROJECT_DIR$/rest-runtime/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SF :: ReST :: BOM" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SF :: ReST :: BOM" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SF :: ReST :: Client BOM" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SF :: ReST :: Client BOM" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" x="1912" y="-8" width="1936" height="1176" extendedState="6" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+              <item name="rest-runtime" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+              <item name="rest-runtime-testing-utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+              <item name="rest-runtime-testing-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+              <item name="rest-runtime-testing-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+              <item name="rest-runtime-testing-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+              <item name="rest-runtime-testing-utils" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="testing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="com_murex_serviceframework_rest_runtime_in_rest-runtime - 2021.09.16 at 15h 36m 06s.xml">
+      <configuration name="com.murex.serviceframework.rest.runtime in rest-runtime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccessLoggingIT - 2021.09.16 at 15h 36m 47s.xml">
+      <configuration name="AccessLoggingIT" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_rest-runtime - 2021.09.16 at 15h 37m 35s.xml">
+      <configuration name="All in rest-runtime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_rest-runtime - 2021.09.16 at 15h 44m 38s.xml">
+      <configuration name="All in rest-runtime" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MurexConditionalConfigurationTest - 2021.09.16 at 15h 51m 16s.xml">
+      <configuration name="MurexConditionalConfigurationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MurexConditionalConfigurationTest - 2021.09.16 at 16h 42m 30s.xml">
+      <configuration name="MurexConditionalConfigurationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EnableMurexApplicationTest - 2021.09.24 at 10h 33m 06s.xml">
+      <configuration name="EnableMurexApplicationTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ApplicationStatusExporterTest - 2021.09.24 at 10h 41m 32s.xml">
+      <configuration name="ApplicationStatusExporterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_murex_serviceframework_rest_monitoring_significantevents_in_rest-monitoring - 2021.09.24 at 11h 15m 34s.xml">
+      <configuration name="com.murex.serviceframework.rest.monitoring.significantevents in rest-monitoring" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_murex_serviceframework_rest_monitoring_in_rest-monitoring - 2021.09.24 at 11h 15m 55s.xml">
+      <configuration name="com.murex.serviceframework.rest.monitoring in rest-monitoring" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="58233000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.43686736" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Web" order="5" side_tool="true" weight="0.25519446" />
+      <window_info id="Persistence" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.44433963" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.25638297" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.3212766" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Services" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="12" />
+      <window_info anchor="bottom" id="Endpoints" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SonarLint" order="16" />
+      <window_info anchor="bottom" id="TypeScript" order="17" />
+      <window_info anchor="bottom" id="Build" order="18" weight="0.32830188" />
+      <window_info anchor="right" id="Ant" order="0" />
+      <window_info anchor="right" id="Maven" order="1" visible="true" weight="0.4816196" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info anchor="right" id="Layout Validation" order="4" />
+      <window_info anchor="right" id="Hierarchy" order="5" weight="0.32978156" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21204048" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Web" order="5" side_tool="true" weight="0.25519446" />
+      <window_info id="Persistence" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.44433963" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32234043" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" visible="true" weight="0.1273585" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Services" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="12" />
+      <window_info anchor="bottom" id="Endpoints" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SonarLint" order="16" />
+      <window_info anchor="bottom" id="TypeScript" order="17" />
+      <window_info anchor="bottom" id="Build" order="18" weight="0.32924527" />
+      <window_info anchor="right" id="Ant" order="0" />
+      <window_info anchor="right" id="Maven" order="1" visible="true" weight="0.076185405" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info anchor="right" id="Layout Validation" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/feign/RetryableFeignClientAnnotationProcessorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-552">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/feign/RetryerConfigurationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/feign/RetryerPropertiesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/error/ErrorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/error/ErrorApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/error/ErrorLogIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="77" column="26" lean-forward="true" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/error/LogsPropertiesProviders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/error/TomcatConnectorLogsCollector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/license/LicenseApplicationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/loadbalanced/feign/FeignApplicationConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/logging/LogCapturingFacility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/logging/Log4j2CapturingFacility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/logging/Log4j2CapturingAppender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/monitoring/ApplicationMonitorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/loadbalanced/feign/FeignApplicationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/logging/LogCapturingRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/tenantid/LogTenantController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/appinfoheaders/AppInfoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/appinfoheaders/AppInfoApplicationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/environment/RuntimeEnvironment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/cachecontrol/HttpCachingController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/cachecontrol/HttpCachingIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/ApplicationStatusJSONHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="56" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/resources/com/murex/serviceframework/rest/runtime/rest-service.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/ManagementEndpointPrivateAccessIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/AbstractLoggingManagementIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1378">
+          <caret line="87" column="31" selection-start-line="87" selection-start-column="31" selection-end-line="87" selection-end-column="31" />
+          <folding>
+            <element signature="e#4374#4375#0" expanded="true" />
+            <element signature="e#4443#4444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/MetricServletInjectionIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1846">
+          <caret line="115" column="94" selection-start-line="115" selection-start-column="90" selection-end-line="115" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/MurexHealthCheckConfigurationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/MurexConditionalConfigurationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/main/java/com/murex/serviceframework/rest/runtime/MurexMetricsConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="56" column="72" selection-start-line="56" selection-start-column="72" selection-end-line="56" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/main/java/com/murex/serviceframework/rest/runtime/MurexHealthCheckConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1430">
+          <caret line="79" column="137" selection-start-line="79" selection-start-column="137" selection-end-line="79" selection-end-column="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/resources/META-INF/murex/rest-services.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/resources/com/murex/serviceframework/rest/runtime/test-additional-endpoints.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="18" selection-start-line="3" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/main/java/com/murex/serviceframework/rest/runtime/LicenseFilterConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/resources/com/murex/serviceframework/rest/runtime/test.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-monitoring/src/test/java/com/murex/serviceframework/rest/monitoring/significantevents/SignificantEventsAnnotationProcessorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-942">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/main/java/com/murex/serviceframework/rest/runtime/FlowIdFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/main/java/com/murex/serviceframework/rest/runtime/AccessDeniedStatusCodeSetterFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/SslUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-864">
+          <caret line="40" column="19" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/EnableMurexApplicationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-546">
+          <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime-testing-utils/src/main/java/com/murex/serviceframework/rest/runtime/testing/ArgumentsProviders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime-testing-utils/src/main/java/com/murex/serviceframework/rest/runtime/testing/DefaultSpringApplicationBuilderFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime-testing-utils/src/main/java/com/murex/serviceframework/rest/runtime/testing/FileSystemChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime-testing-utils/src/main/java/com/murex/serviceframework/rest/runtime/testing/BeanResolutionResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime-testing-utils/src/main/java/com/murex/serviceframework/rest/runtime/testing/SpringApplicationRule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime-testing-utils/src/main/java/com/murex/serviceframework/rest/runtime/testing/SpringApplicationRuleBuilders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime-testing-utils/src/main/java/com/murex/serviceframework/rest/runtime/testing/LoadableSpringApplicationInstance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1508">
+          <caret line="72" column="44" selection-start-line="72" selection-start-column="44" selection-end-line="72" selection-end-column="44" />
+          <folding>
+            <element signature="e#1911#1912#0" expanded="true" />
+            <element signature="e#1989#1990#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime-testing-utils/src/main/java/com/murex/serviceframework/rest/runtime/testing/LoadableSpringApplicationInstanceBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/src/test/java/com/murex/serviceframework/rest/runtime/ApplicationStatusExporterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-monitoring/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2288">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest-runtime/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="329" selection-start-line="329" selection-end-line="329" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

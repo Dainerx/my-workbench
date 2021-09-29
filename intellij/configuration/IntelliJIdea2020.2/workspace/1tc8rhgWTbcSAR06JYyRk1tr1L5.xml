@@ -1,0 +1,700 @@
+<project version="4">
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/counterpart-core/src/it/java/com/murex/counterpart/core/CounterpartyApplicationIT.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="85" column="16" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/counterpart-core/src/main/java/com/murex/counterpart/core/controller/CounterpartStatistics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/counterpart-core/src/main/java/com/murex/counterpart/core/controller/CounterpartyController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/counterpart-application/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/counterpart-application/src/main/resources/META-INF/murex/component-descriptor.yaml">
+          <provider selected="true" editor-type-id="intellij.swagger.ui.editor.with.preview" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/counterpart-application/src/main/resources/META-INF/murex/rest-services.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="26">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>asse</find>
+      <find>logger</find>
+      <find>maven-</find>
+      <find>counterpart-all</find>
+      <find>Files</find>
+      <find>SUBSCRIPTION_NAME</find>
+      <find>core</find>
+      <find>test</find>
+      <find>CounterpartyApplicationIT</find>
+      <find>junit</find>
+      <find>replica</find>
+      <find>CounterPartyApplicationIT</find>
+      <find>CounterpartyLoggerIT</find>
+      <find>Counterparty</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\dev_branch\component\examples\referencedata\counterpart</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/counterpart-core/src/test/java/com/murex/counterpart/core/pact/CounterpartPactProviderTest.java" />
+        <option value="$PROJECT_DIR$/counterpart-core/src/main/java/com/murex/counterpart/core/service/CounterpartyService.java" />
+        <option value="$PROJECT_DIR$/deployment/src/main/assembly/fs/public/services/counterpart/loggers.mxres" />
+        <option value="$PROJECT_DIR$/counterpart-application/src/main/java/com/murex/counterpart/application/controller/CategoriesController.java" />
+        <option value="$PROJECT_DIR$/counterpart-application/src/main/java/com/murex/counterpart/application/controller/CounterpartyController.java" />
+        <option value="$PROJECT_DIR$/counterpart-application/src/main/java/com/murex/counterpart/application/controller/LogController.java" />
+        <option value="$PROJECT_DIR$/counterpart-application/src/main/java/com/murex/counterpart/application/controller/ApplicationController.java" />
+        <option value="$PROJECT_DIR$/counterpart-core/log.txt" />
+        <option value="$PROJECT_DIR$/counterpart-application/target/test-classes/log4j.xml" />
+        <option value="$PROJECT_DIR$/counterpart-core/src/it/java/com/murex/counterpart/core/CounterPartyLoggerIT.java" />
+        <option value="$PROJECT_DIR$/counterpart-core/pom.xml" />
+        <option value="$PROJECT_DIR$/counterpart-core/src/it/java/com/murex/counterpart/core/CountertpartyLoggerIT.java" />
+        <option value="$PROJECT_DIR$/counterpart-core/src/main/java/com/murex/counterpart/core/controller/LoggerController.java" />
+        <option value="$PROJECT_DIR$/counterpart-core/src/test/resources/logger.mxres" />
+        <option value="$PROJECT_DIR$/counterpart-core/src/it/java/com/murex/counterpart/core/CounterpartyApplicationIT.java" />
+        <option value="$PROJECT_DIR$/counterpart-core/src/it/java/com/murex/counterpart/core/CounterpartyLoggerIT.java" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" x="-9" y="-9" width="1938" height="1048" extendedState="6" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="counterpart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="counterpart" type="462c0819:PsiDirectoryNode" />
+              <item name="counterpart-application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="counterpart" type="462c0819:PsiDirectoryNode" />
+              <item name="counterpart-application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="counterpart" type="462c0819:PsiDirectoryNode" />
+              <item name="counterpart-application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="counterpart" type="462c0819:PsiDirectoryNode" />
+              <item name="counterpart-application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="counterpart" type="462c0819:PsiDirectoryNode" />
+              <item name="counterpart-application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="murex" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="counterpart" type="462c0819:PsiDirectoryNode" />
+              <item name="counterpart-core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="counterpart" type="462c0819:PsiDirectoryNode" />
+              <item name="counterpart-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="counterpart" type="462c0819:PsiDirectoryNode" />
+              <item name="counterpart-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="it" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="counterpart" type="462c0819:PsiDirectoryNode" />
+              <item name="counterpart-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="it" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="counterpart" type="462c0819:PsiDirectoryNode" />
+              <item name="counterpart-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="it" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="counterpart" type="462c0819:PsiDirectoryNode" />
+              <item name="counterpart-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="counterpart" type="462c0819:PsiDirectoryNode" />
+              <item name="counterpart-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="counterpart" type="462c0819:PsiDirectoryNode" />
+              <item name="counterpart-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="counterpart" type="462c0819:PsiDirectoryNode" />
+              <item name="counterpart-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="counterpart" type="462c0819:PsiDirectoryNode" />
+              <item name="counterpart-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CounterpartyControllerTest - 2021.07.05 at 15h 53m 56s.xml">
+      <configuration name="CounterpartyControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CounterPartyLoggerIT - 2021.07.19 at 14h 10m 43s.xml">
+      <configuration name="CounterPartyLoggerIT" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CounterPartyLoggerIT - 2021.07.19 at 14h 16m 44s.xml">
+      <configuration name="CounterPartyLoggerIT" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CounterPartyLoggerIT - 2021.07.22 at 14h 52m 51s.xml">
+      <configuration name="CounterPartyLoggerIT" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CounterpartyLoggerIT_loggerConfigurationFileShouldExist - 2021.07.22 at 16h 26m 38s.xml">
+      <configuration name="CounterpartyLoggerIT.loggerConfigurationFileShouldExist" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CounterpartyLoggerIT - 2021.07.22 at 16h 26m 53s.xml">
+      <configuration name="CounterpartyLoggerIT" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CounterpartyLoggerIT - 2021.07.22 at 16h 27m 05s.xml">
+      <configuration name="CounterpartyLoggerIT" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CounterpartyLoggerIT - 2021.07.22 at 16h 28m 19s.xml">
+      <configuration name="CounterpartyLoggerIT" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="core_in_counterpart-core - 2021.07.22 at 16h 28m 48s.xml">
+      <configuration name="core in counterpart-core" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CounterpartyLoggerIT - 2021.07.22 at 16h 29m 32s.xml">
+      <configuration name="CounterpartyLoggerIT" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="63179000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.80943394" visible="true" weight="0.23601492" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.32978156" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Persistence" order="5" side_tool="true" />
+      <window_info id="Web" order="6" sideWeight="0.19056603" side_tool="true" weight="0.24507192" />
+      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49973363" weight="0.32978722" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.32551944" side_tool="true" visible="true" weight="0.16914894" />
+      <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.32924527" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.67448056" visible="true" weight="0.16595745" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" sideWeight="0.49973363" weight="0.40319148" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49973363" weight="0.32978722" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32924527" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Services" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="13" />
+      <window_info anchor="bottom" id="Endpoints" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="15" />
+      <window_info anchor="bottom" id="Database Changes" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SonarLint" order="17" weight="0.33584905" />
+      <window_info anchor="bottom" id="TypeScript" order="18" />
+      <window_info anchor="bottom" id="Build" order="19" weight="0.64528304" />
+      <window_info anchor="right" id="Ant" order="0" />
+      <window_info anchor="right" id="Maven" order="1" visible="true" weight="0.1748158" />
+      <window_info anchor="right" id="Database" order="2" weight="0.32978156" />
+      <window_info anchor="right" id="Layout Validation" order="3" />
+      <window_info anchor="right" id="Bean Validation" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.80943394" visible="true" weight="0.24507192" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.32978156" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info id="Persistence" order="5" side_tool="true" />
+      <window_info id="Web" order="6" sideWeight="0.19056603" side_tool="true" visible="true" weight="0.24507192" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32978722" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.32924527" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.42264152" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32924527" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Services" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="13" />
+      <window_info anchor="bottom" id="Endpoints" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flow" order="15" />
+      <window_info anchor="bottom" id="Database Changes" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SonarLint" order="17" weight="0.33584905" />
+      <window_info anchor="bottom" id="TypeScript" order="18" />
+      <window_info anchor="bottom" id="Build" order="19" weight="0.64528304" />
+      <window_info anchor="right" id="Ant" order="0" />
+      <window_info anchor="right" id="Maven" order="1" visible="true" weight="0.1748158" />
+      <window_info anchor="right" id="Database" order="2" weight="0.32978156" />
+      <window_info anchor="right" id="Layout Validation" order="3" />
+      <window_info anchor="right" id="Bean Validation" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/deployment/src/main/assembly/fs/murex/services/counterpart/authorization-counterpart.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deployment/src/main/assembly/fs/murex/services/counterpart/changelog-1.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deployment/src/main/assembly/assembly.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deployment/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="43" column="44" lean-forward="true" selection-start-line="43" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deployment/src/main/assembly/fs/public/services/counterpart/deployment-descriptor.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runner/src/test/java/com/murex/counterpart/runner/CounterpartApplicationClientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-572">
+          <caret line="35" column="91" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deployment/src/main/assembly/fs/public/services/counterpart/loggers.mxres">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-application/src/main/java/com/murex/counterpart/application/controller/CiModesController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-application/src/main/java/com/murex/counterpart/application/controller/CmmSiPreferencesController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../maven-repo-local/org/springframework/spring-web/5.1.13.RELEASE/spring-web-5.1.13.RELEASE.jar!/org/springframework/web/bind/annotation/GetMapping.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-application/src/test/java/com/murex/counterpart/application/controller/ApplicationControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="194" selection-start-line="4" selection-start-column="188" selection-end-line="4" selection-end-column="194" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2730">
+          <caret line="105" column="54" selection-start-line="105" selection-start-column="39" selection-end-line="105" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-core/src/main/java/com/murex/counterpart/core/service/CounterpartyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="63" column="32" selection-start-line="63" selection-end-line="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-application/src/main/java/com/murex/counterpart/application/controller/CategoriesController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-application/src/main/java/com/murex/counterpart/application/controller/CounterpartyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2366">
+          <caret line="140" column="6" selection-start-line="140" selection-start-column="6" selection-end-line="140" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../maven-repo-local/com/murex/serviceframework/rest/rest-runtime-testing-utils/v3.1.build.dev.amber.120787.50.1-SNAPSHOT/rest-runtime-testing-utils-v3.1.build.dev.amber.120787.50.1-SNAPSHOT-sources.jar!/com/murex/serviceframework/rest/runtime/testing/SpringApplicationRuleBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6236">
+          <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../maven-repo-local/junit/junit/4.12/junit-4.12.jar!/org/junit/Rule.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../maven-repo-local/junit/junit/4.12/junit-4.12.jar!/org/junit/rules/RuleChain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../maven-repo-local/com/murex/serviceframework/rest/rest-runtime-testing-utils/v3.1.build.dev.amber.120787.50.1-SNAPSHOT/rest-runtime-testing-utils-v3.1.build.dev.amber.120787.50.1-SNAPSHOT-sources.jar!/com/murex/serviceframework/rest/runtime/testing/SpringApplicationRuleBuilders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-application/src/main/java/com/murex/counterpart/application/controller/StatusesController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-application/src/main/java/com/murex/counterpart/application/controller/CurrentDateController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-application/src/main/java/com/murex/counterpart/application/controller/CounterpartyTypesController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-application/src/main/java/com/murex/counterpart/application/controller/CountriesController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install/target/counterpart-all/fs/public/services/counterpart/loggers.mxres">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-application/src/main/java/com/murex/counterpart/application/controller/ApplicationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="67" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../../maven-repo-local/com/murex/serviceframework/rest/rest-runtime-testing-utils/v3.1.build.dev.amber.120787.50.1-SNAPSHOT/rest-runtime-testing-utils-v3.1.build.dev.amber.120787.50.1-SNAPSHOT-sources.jar!/com/murex/serviceframework/rest/runtime/testing/ClientSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-core/service.pid" />
+    <entry file="file://$PROJECT_DIR$/counterpart-application/src/main/java/com/murex/counterpart/application/controller/LogController.java" />
+    <entry file="file://$PROJECT_DIR$/counterpart-core/src/it/java/com/murex/counterpart/core/CountertpartyLoggerIT.java" />
+    <entry file="file://$PROJECT_DIR$/counterpart-core/target/test-classes/log4j.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-core/src/test/java/com/murex/counterpart/core/CounterpartyControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="55" column="13" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-core/src/test/java/com/murex/counterpart/core/service/CounterpartyServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="49" column="13" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-core/src/test/java/com/murex/counterpart/core/controller/CoreControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.txt" />
+    <entry file="file://$PROJECT_DIR$/counterpart-core/src/main/java/com/murex/counterpart/core/controller/CoreController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="34" selection-start-line="24" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6682">
+          <caret line="257" column="29" selection-start-line="257" selection-start-column="24" selection-end-line="257" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-application/target/test-classes/log4j.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-application/src/main/java/com/murex/counterpart/application/controller/CounterpartySearchUrls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-core/src/test/resources/logger.mxres">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-core/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="659">
+          <caret line="1725" lean-forward="true" selection-start-line="1725" selection-end-line="1725" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-core/target/test-classes/logs/counterpart/core/replica_agent_uuid_measurements.log" />
+    <entry file="file://$PROJECT_DIR$/counterpart-core/target/test-classes/logs/counterpart/core/replica_agent_uuid_events.log" />
+    <entry file="file://$PROJECT_DIR$/counterpart-core/src/main/java/com/murex/counterpart/core/controller/LoggerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-core/src/main/java/com/murex/counterpart/core/controller/CounterpartStatistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-core/src/main/java/com/murex/counterpart/core/controller/CounterpartyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-application/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-application/src/main/resources/META-INF/murex/component-descriptor.yaml">
+      <provider selected="true" editor-type-id="intellij.swagger.ui.editor.with.preview" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-application/src/main/resources/META-INF/murex/rest-services.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-core/src/it/java/com/murex/counterpart/core/CounterpartyLoggerIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="664">
+          <caret line="45" column="84" selection-start-line="45" selection-start-column="84" selection-end-line="45" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counterpart-core/src/it/java/com/murex/counterpart/core/CounterpartyApplicationIT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="85" column="16" selection-start-line="85" selection-start-column="16" selection-end-line="85" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>counterpart-application</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.42528737" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>
