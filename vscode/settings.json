@@ -1,0 +1,8 @@
+{
+    "C_Cpp.updateChannel": "Insiders",
+    "terminal.external.windowsExec": "C:\\Program Files (x86)\\clink\\0.4.9\\clink",
+    "editor.tabCompletion": "on",
+    "terminal.integrated.tabs.enabled": true,
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "window.zoomLevel": 2
+}
